@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/word-cloud/static/css/main.1dfa595e.css",
+    "main.js": "/word-cloud/static/js/main.a7c80f2b.js",
+    "static/js/453.36c399e1.chunk.js": "/word-cloud/static/js/453.36c399e1.chunk.js",
+    "index.html": "/word-cloud/index.html",
+    "main.1dfa595e.css.map": "/word-cloud/static/css/main.1dfa595e.css.map",
+    "main.a7c80f2b.js.map": "/word-cloud/static/js/main.a7c80f2b.js.map",
+    "453.36c399e1.chunk.js.map": "/word-cloud/static/js/453.36c399e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfa595e.css",
+    "static/js/main.a7c80f2b.js"
+  ]
+}
